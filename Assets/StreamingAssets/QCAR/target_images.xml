@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="qr_infoarm" size="50.000000 50.000000" />
+    <ImageTarget name="qr_infothorax" size="50.000000 50.000000" />
+    <ImageTarget name="qr_infobrain" size="50.000000 50.000000" />
+    <ImageTarget name="qr_infovertebral" size="50.000000 50.000000" />
+    <ImageTarget name="qr_infolung" size="50.000000 50.000000" />
+    <ImageTarget name="qr_infoheart" size="50.000000 50.000000" />
+    <ImageTarget name="qr_armLeft" size="50.000000 50.000000" />
+    <ImageTarget name="qr_armRight" size="50.000000 50.000000" />
+    <ImageTarget name="qr_vertebral" size="50.000000 50.000000" />
+    <ImageTarget name="qr_thorax" size="50.000000 50.000000" />
+    <ImageTarget name="qr_brain" size="50.000000 50.000000" />
+    <ImageTarget name="qr_heart" size="50.000000 50.000000" />
+    <ImageTarget name="qr_skeleton" size="50.000000 50.000000" />
+    <ImageTarget name="qr_lung" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>

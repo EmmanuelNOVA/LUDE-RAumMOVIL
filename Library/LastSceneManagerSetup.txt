@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Disen\u0303o.unity"
+  isLoaded: 1
+  isActive: 1

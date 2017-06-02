@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: b92998425494249509f04dcf76f8bf45
+timeCreated: 1496166766
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Capitate
+    100002: CLAVICLE
+    100004: Hamate
+    100006: Humerus
+    100008: Ind_Dist
+    100010: Ind_Meta
+    100012: Ind_Midd
+    100014: Ind_Prox
+    100016: Lit_Dist
+    100018: Lit_Meta
+    100020: Lit_Midd
+    100022: Lit_Prox
+    100024: Lunate
+    100026: Mid_Dist
+    100028: Mid_Meta
+    100030: Mid_Midd
+    100032: Mid_Prox
+    100034: Navicul
+    100036: Pisiform
+    100038: Radius
+    100040: SCAPULA
+    100042: Thi_Dist
+    100044: Thi_Meta
+    100046: Thi_Midd
+    100048: Thi_Prox
+    100050: Thu_Dist
+    100052: Thu_Meta
+    100054: Thu_Prox
+    100056: Trapezio
+    100058: Trapeziu
+    100060: Triangul
+    100062: //RootNode
+    100064: Ulna
+    100066: WRIST
+    400000: Capitate
+    400002: CLAVICLE
+    400004: Hamate
+    400006: Humerus
+    400008: Ind_Dist
+    400010: Ind_Meta
+    400012: Ind_Midd
+    400014: Ind_Prox
+    400016: Lit_Dist
+    400018: Lit_Meta
+    400020: Lit_Midd
+    400022: Lit_Prox
+    400024: Lunate
+    400026: Mid_Dist
+    400028: Mid_Meta
+    400030: Mid_Midd
+    400032: Mid_Prox
+    400034: Navicul
+    400036: Pisiform
+    400038: Radius
+    400040: SCAPULA
+    400042: Thi_Dist
+    400044: Thi_Meta
+    400046: Thi_Midd
+    400048: Thi_Prox
+    400050: Thu_Dist
+    400052: Thu_Meta
+    400054: Thu_Prox
+    400056: Trapezio
+    400058: Trapeziu
+    400060: Triangul
+    400062: //RootNode
+    400064: Ulna
+    400066: WRIST
+    2300000: Capitate
+    2300002: CLAVICLE
+    2300004: Hamate
+    2300006: Humerus
+    2300008: Ind_Dist
+    2300010: Ind_Meta
+    2300012: Ind_Midd
+    2300014: Ind_Prox
+    2300016: Lit_Dist
+    2300018: Lit_Meta
+    2300020: Lit_Midd
+    2300022: Lit_Prox
+    2300024: Lunate
+    2300026: Mid_Dist
+    2300028: Mid_Meta
+    2300030: Mid_Midd
+    2300032: Mid_Prox
+    2300034: Navicul
+    2300036: Pisiform
+    2300038: Radius
+    2300040: SCAPULA
+    2300042: Thi_Dist
+    2300044: Thi_Meta
+    2300046: Thi_Midd
+    2300048: Thi_Prox
+    2300050: Thu_Dist
+    2300052: Thu_Meta
+    2300054: Thu_Prox
+    2300056: Trapezio
+    2300058: Trapeziu
+    2300060: Triangul
+    2300062: Ulna
+    3300000: Capitate
+    3300002: CLAVICLE
+    3300004: Hamate
+    3300006: Humerus
+    3300008: Ind_Dist
+    3300010: Ind_Meta
+    3300012: Ind_Midd
+    3300014: Ind_Prox
+    3300016: Lit_Dist
+    3300018: Lit_Meta
+    3300020: Lit_Midd
+    3300022: Lit_Prox
+    3300024: Lunate
+    3300026: Mid_Dist
+    3300028: Mid_Meta
+    3300030: Mid_Midd
+    3300032: Mid_Prox
+    3300034: Navicul
+    3300036: Pisiform
+    3300038: Radius
+    3300040: SCAPULA
+    3300042: Thi_Dist
+    3300044: Thi_Meta
+    3300046: Thi_Midd
+    3300048: Thi_Prox
+    3300050: Thu_Dist
+    3300052: Thu_Meta
+    3300054: Thu_Prox
+    3300056: Trapezio
+    3300058: Trapeziu
+    3300060: Triangul
+    3300062: Ulna
+    4300000: SCAPULA
+    4300002: CLAVICLE
+    4300004: Humerus
+    4300006: Ulna
+    4300008: Radius
+    4300010: Triangul
+    4300012: Hamate
+    4300014: Pisiform
+    4300016: Trapezio
+    4300018: Trapeziu
+    4300020: Capitate
+    4300022: Navicul
+    4300024: Lunate
+    4300026: Thu_Meta
+    4300028: Thu_Prox
+    4300030: Thu_Dist
+    4300032: Thi_Meta
+    4300034: Thi_Prox
+    4300036: Thi_Midd
+    4300038: Thi_Dist
+    4300040: Mid_Meta
+    4300042: Mid_Prox
+    4300044: Mid_Midd
+    4300046: Mid_Dist
+    4300048: Ind_Meta
+    4300050: Ind_Prox
+    4300052: Ind_Midd
+    4300054: Ind_Dist
+    4300056: Lit_Meta
+    4300058: Lit_Prox
+    4300060: Lit_Midd
+    4300062: Lit_Dist
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
